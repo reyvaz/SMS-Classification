@@ -1,4 +1,8 @@
 
+<br>
+[**See notebook in Jupyter nbviewer**](https://nbviewer.jupyter.org/github/reyvaz/SMS-Classification/blob/master/sms_spam.ipynb)
+
+
 ## SMS Spam Classification
 
 ### Tests different classification algorithms to detect spam in SMS messages  
