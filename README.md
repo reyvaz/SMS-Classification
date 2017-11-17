@@ -1,6 +1,7 @@
 
 <br>
-[**See notebook in Jupyter nbviewer**](https://nbviewer.jupyter.org/github/reyvaz/SMS-Classification/blob/master/sms_spam.ipynb)
+
+**[See notebook in Jupyter nbviewer](https://nbviewer.jupyter.org/github/reyvaz/SMS-Classification/blob/master/sms_spam.ipynb)**
 
 
 ## SMS Spam Classification
