@@ -1,2 +1,4 @@
 py_scripts/**
 README.html
+.ipynb_checkpoints/**
+spam.csv
